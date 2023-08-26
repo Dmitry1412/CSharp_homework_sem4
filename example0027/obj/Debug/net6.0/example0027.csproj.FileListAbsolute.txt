@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\bin\Debug\net6.0\example0027.exe
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\bin\Debug\net6.0\example0027.deps.json
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\bin\Debug\net6.0\example0027.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\bin\Debug\net6.0\example0027.dll
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\bin\Debug\net6.0\example0027.pdb
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.dll
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\refint\example0027.dll
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.pdb
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\example0027.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_HW004\example0027\obj\Debug\net6.0\ref\example0027.dll
